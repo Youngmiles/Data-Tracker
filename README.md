@@ -6,9 +6,13 @@ It combines visualizations, statistical summaries and correlation analysis to ex
 
 #  Objectives
 To compare the spread and impact of COVID-19.
+
 To identify trends and patterns in infection, recovery and death rates.
+
 To visualize vaccination progress and government response efficiency.
+
 To draw insights that can inform policy and future pandemic response.
+
 Provide actionable recommendations for improving healthcare preparedness and equity in future crises.
 
 # Tools and Libraries Used
@@ -23,7 +27,7 @@ Jupyter Notebook – for organizing code and analysis (Development environment)
 CSV files – for real-time or historical COVID-19 data 
 
 
-#▶ How to Run the Project
+# ▶ How to Run the Project
 
 Install dependencies:
 pip install pandas numpy plotly jupyter
