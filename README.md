@@ -27,16 +27,20 @@ Jupyter Notebook – for organizing code and analysis (Development environment)
 CSV files – for real-time or historical COVID-19 data 
 
 
-# ▶ How to Run the Project
+#  How to Run the Project
 
 Install dependencies:
+
 pip install pandas numpy plotly jupyter
 
 Download the dataset: 
+
 https://github.com/owid/covid-19-data
 
 Clone the repository:
+
 git clone https://github.com/Youngmiles/Data-Tracker.git
 
 Launch Jupyter Notebook:
+
 Jupyter Notebook
