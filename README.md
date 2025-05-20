@@ -13,9 +13,13 @@ Provide actionable recommendations for improving healthcare preparedness and equ
 
 🧰 Tools and Libraries Used
 Python -  programming language
+
 pandas – data cleaning, manipulation and analysis
+
 matplotlib and seaborn – data visualization
+
 Jupyter Notebook – for organizing code and analysis (Development environment)
+
 CSV files – for real-time or historical COVID-19 data 
 
 
