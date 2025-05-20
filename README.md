@@ -31,16 +31,17 @@ CSV files – for real-time or historical COVID-19 data
 
 Install dependencies:
 
+```bash
 pip install pandas numpy plotly jupyter
-
+```
 Download the dataset: 
 
 https://github.com/owid/covid-19-data
 
 Clone the repository:
-
+```bash
 git clone https://github.com/Youngmiles/Data-Tracker.git
-
+```
 Launch Jupyter Notebook:
 
 ```bash
