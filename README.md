@@ -43,4 +43,6 @@ git clone https://github.com/Youngmiles/Data-Tracker.git
 
 Launch Jupyter Notebook:
 
+```bash
 Jupyter Notebook
+```
